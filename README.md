@@ -4,8 +4,11 @@ our friend has opened a new Food Blogging handle on Instagram and wants to get f
 
 # Technologies Used
 Selenium : A library used for automated web browsing and interaction.
+
 Python: The primary programming language used for web scraping.
+
 BeautifulSoup: A library used to parse HTML and XML documents.
-Requests: A library to handle HTTP requests.
+
 Pandas: A library for data manipulation and analysis.
+
 Jupyter Notebook: For creating and sharing the web scraping notebook.
